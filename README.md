@@ -5,7 +5,7 @@ This simple app allows you to take a photo and save in "/Pictures/memes/" folder
 Gallery Options:
 - Swipe Control (Swipe left and right to navigate. Double tap to exit)
 - Button Control (Push next and previous to navigate. Hit Back to exit)
-- Motion Control (Tilt phone left and right to navigate. Shake phone towards you to exit)
+- Motion Control (Tilt phone left and right to navigate. Shake phone towards youself and away, to exit)
 
 The Activities are as follows:
 - a: Home page + Camera 
